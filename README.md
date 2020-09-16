@@ -1,2 +1,2 @@
 # georgeguo-cn.github.io
-This is georgeguo's homepage
+This is Zhiqiang Guo's homepage
