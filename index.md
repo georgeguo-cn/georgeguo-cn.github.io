@@ -8,11 +8,11 @@ E-mail: zhiqiangguo@hust.edu.cn
 
 ## Education Background
 
-Shandong University , Weihai, Shangdong (Bachelor).
+Shandong University , Weihai (Bachelor).
 
-Huazhong University of Science and Technology, Wuhan, Hubei (Master).
+Huazhong University of Science and Technology, Wuhan (Master).
 
-Huazhong University of Science and Technology, Wuhan, Hubei (Ph.D in Studying).
+Huazhong University of Science and Technology, Wuhan (Ph.D in Studying).
 
 ## Research Interests
 
