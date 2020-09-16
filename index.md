@@ -8,18 +8,21 @@ E-mail: zhiqiangguo@hust.edu.cn
 
 ## Education Background
 
-Shandong University , Weihai, Shangdong (Bachelor)
-Huazhong University of Science and Technology, Wuhan, Hubei (Master)
-Huazhong University of Science and Technology, Wuhan, Hubei (Ph.D in Studying)
+Shandong University , Weihai, Shangdong (Bachelor).
+
+Huazhong University of Science and Technology, Wuhan, Hubei (Master).
+
+Huazhong University of Science and Technology, Wuhan, Hubei (Ph.D in Studying).
 
 ## Research Interests
 
-Deep Learning, Reinforcement Learning, Information Recommendation
+Deep Learning, Reinforcement Learning, Information Recommendation.
 
 ## Publications
 
 "A Text-based Deep Reinforcement Learning Framework for Interactive Recommendation" (Second Author, ECAI 2020).
-"DDFL: A Deep Dual Function Learning-based Model for Recommender Systems" (Third Author, DASFAA 2020)
+
+"DDFL: A Deep Dual Function Learning-based Model for Recommender Systems" (Third Author, DASFAA 2020).
 
 ## Support or Contact
 
