@@ -15,7 +15,7 @@ E-mail: zhiqiangguo@hust.edu.cn
 
 ## Research Interests
 
-Deep Learning, Reinforcement Learning, Information Recommendation.
+Recommender Systems, Representation Learning, Graph Neural Network, Reinforcement Learning.
 
 ## Publications
 
