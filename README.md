@@ -23,7 +23,7 @@ Recommender Systems, Representation Learning, Graph Neural Network, Reinforcemen
 
 **Zhiqiang Guo**, Chaoyang Wang, et al. Joint Locality Preservation and Adaptive Combination for Graph Collaborative Filtering. In: International Conference on Database Systems for Advanced Applications (DASFAA 2022). Springer, 2022: 183-198. [paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-00126-0_12) [code](https://github.com/georgeguo-cn/LaGCF)
 
-**Zhiqiang Guo**, Chaoyang Wang, et al. DiCGAN: A Dilated Convolutional Generative Adversarial Network for Recommender Systems, In: International Conference on Database Systems for Advanced Applications (DASFAA 2021), Springer, 2021: 279-296. [paper](https://dl.acm.org/doi/abs/10.1007/978-3-030-73200-4_18) [code](https://github.com/georgeguo-cn/dicgan)
+**Zhiqiang Guo**, Chaoyang Wang, et al. DiCGAN: A Dilated Convolutional Generative Adversarial Network for Recommender Systems, In: International Conference on Database Systems for Advanced Applications (DASFAA 2021), Springer, 2021: 279-296. [paper](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_18) [code](https://github.com/georgeguo-cn/dicgan)
 
 Guohui Li, **Zhiqiang Guo**, et al. MDGCF: Multi-Dependency Graph Collaborative Filtering with Neighborhood- and Homogeneous-level Dependencies, In: 31st ACM International Conference on Information and Knowledge Management (CIKM 2022). [paper](https://dl.acm.org/doi/10.1145/3511808.3557390) [code](https://github.com/georgeguo-cn/MDGCF)
 
