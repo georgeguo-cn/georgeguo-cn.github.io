@@ -2,12 +2,14 @@
 
 Name: Zhiqiang Guo (郭志强)
 
-City: Wuhan, China
+City: Beijing, China
 
-E-mail: zhiqiangguo@hust.edu.cn
+E-mail: georgeguo.gzq.cn@gmail.com
 
 ## Education Background
-2020.09~ Huazhong University of Science and Technology, Wuhan (Ph.D in Studying). 
+2024.07~present Tsinghua University, Beijing (Postdoctoral Researcher)
+
+2020.09~2024.06 Huazhong University of Science and Technology, Wuhan (Ph.D in Studying). 
 
 2018.09~2020.06 Huazhong University of Science and Technology, Wuhan (Master).
 
@@ -15,7 +17,7 @@ E-mail: zhiqiangguo@hust.edu.cn
 
 ## Research Interests
 
-Recommender Systems, Representation Learning, Graph Neural Network, Reinforcement Learning.
+Recommender Systems, User Modeling, Multimodal Representation Learning, Graph Neural Network.
 
 ## Publications
 
