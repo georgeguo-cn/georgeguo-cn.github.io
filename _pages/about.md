@@ -1,49 +1,103 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhiqiang Guo"
+excerpt: "Zhiqiang Guo"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am now a postdoctoral researcher at Department of Computer Science and Terchnology, Tsinghua University, working with [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang). Before that, I received my PhD degree in School of Computer Science and Technology, Huazhong University of Science and Technology, supervised by [Prof. Guohui Li](http://faculty.hust.edu.cn/liguohui/zh_CN/index.htm) and [Prof. Jianjun Li](http://faculty.hust.edu.cn/lijianjun1/zh_CN/index.htm).
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My primary research interests include personalized recommendation, data mining, and user modeling. Currently, I'm working on multimodal recommendation, generative recommendation.
 
-A data-driven personal website
+
+Education and Experiences
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* **Jul. 2024 - present.** Postdoctoral researcher, Department of Computer Science and Technology, Tsinghua University.
+* **Sep. 2020 - Jun. 2024.** Ph.D., School of Computer Science and Technology, Huazhong University of Science and Technology.
+* **Sep. 2018 - Jun. 2020.** M.S., School of Computer Science and Technology, Huazhong University of Science and Technology. 
+* **Aug. 2014 - Jul. 2017.** B.S., School of Mechanical, Electrical and Information Engineering, Shandong University.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* LGMRec: Local and Global Graph Learning for Multimodal Recommendation. \
+***Zhiqiang Guo***, Jianjun Li, Guohui Li, Chaoyang Wang, Si Shi, Bin Ruan. \
+In: the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024). 
+[[paper]](https://doi.org/10.1609/aaai.v38i8.28688) [[code]](https://github.com/georgeguo-cn/LGMRec)
+* DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation. \
+***Zhiqiang Guo***, Guohui Li, Jianjun Li, Chaoyang Wang, Si Shi. \
+In: the SIAM International Conference on Data Mining (SDM 2024). 
+[[paper]](https://doi.org/10.1137/1.9781611978032.66) [[code]](https://github.com/georgeguo-cn/DualVAE)
+* Extracting Latently Overlapping Users by Graph Neural Network for Non-Overlapping Cross-Domain Recommendation. \
+Meng Liu, Jianjun Li, ***Zhiqiang Guo***, Guohui Li. \
+Knowledge-Based Systems (KBS 2024). 
+[[paper]](https://doi.org/10.1016/j.knosys.2024.111508)
+* Knowledge-enhanced Multi-View Graph Neural Networks for Session-based Recommendation. \
+Qian Chen, ***Zhiqiang Guo#***, Jianjun Li, Guohui Li.
+In: the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023). 
+[[paper]](https://doi.org/10.1145/3539618.3591706)
+* Multi-view Multi-aspect Neural Networks for Next-basket Recommendation. \
+Zhiying Deng, Jianjun Li, ***Zhiqiang Guo***, Wei Liu, Li Zou, Guohui Li. \
+In: the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023). 
+[[paper]](https://doi.org/10.1145/3539618.3591738)
+* Attribute-enhanced Dual Channel Representation Learning for Session-based Recommendation. \
+Qian Chen, Jianjun Li, ***Zhiqiang Guo***, Guohui Li, Zhiying Deng. \
+In: the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), short paper.
+[[paper]](https://doi.org/10.1145/3583780.3615245)
+* Multi-Aspect Interest Neighbor-Augmented Network for Next-Basket Recommendation. \
+Zhiying Deng, Jianjun Li, ***Zhiqiang Guo***, Guohui Li. \
+In: the 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023).
+[[paper]](https://doi.org/10.1109/ICASSP49357.2023.10095063)
+* Cross Domain Deep Collaborative Filtering without Overlapping Data. \
+Meng Liu, Jianjun Li, Guohui Li, ***Zhiqiang Guo***, Chaoyang Wang, Peng Pan. \
+In: the 2023 International Joint Conference on Neural Networks (IJCNN 2023).
+[[paper]](https://doi.org/10.1109/IJCNN54540.2023.10191115)
+* TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation. \
+***Zhiqiang Guo***, Guohui Li, Jianjun Li, Huaicong Chen. \
+In: the 30th ACM International Conference on Multimedia (ACM MM 2022).
+[[paper]](https://dl.acm.org/doi/10.1145/3503161.3548294) [[code]](https://github.com/georgeguo-cn/TopicVAE)
+* MDGCF: Multi-Dependency Graph Collaborative Filtering with Neighborhood- and Homogeneous-level Dependencies. \
+Guohui Li\*, ***Zhiqiang Guo\****, Jianjun Li, Chaoyang Wang. \
+In: the 31st ACM International Conference on Information and Knowledge Management (CIKM 2022).
+[[paper]](https://dl.acm.org/doi/10.1145/3511808.3557390) [[code]](https://github.com/georgeguo-cn/MDGCF)
+* Joint Locality Preservation and Adaptive Combination for Graph Collaborative Filtering. \
+***Zhiqiang Guo***, Chaoyang Wang, Zhi Li, Jianjun Li, Guohui Li. \
+In: International Conference on Database Systems for Advanced Applications (DASFAA 2022). 
+[[paper]](https://link.springer.com/chapter/10.1007/978-3-031-00126-0_12) [[code]](https://github.com/georgeguo-cn/LaGCF)
+* A Text-based Deep Reinforcement Learning Framework Using Self-supervised Graph Representation for Interactive Recommendation. \
+Chaoyang Wang, ***Zhiqiang Guo***, Jianjun Li, Guohui Li, Peng Pan. \
+ACM/IMS Transactions on Data Science (TDS 2022). 
+[[paper]](https://dl.acm.org/doi/10.1145/3522596)
+* DiCGAN: A Dilated Convolutional Generative Adversarial Network for Recommender Systems. \
+***Zhiqiang Guo***, Chaoyang Wang, Jianjun Li, Guohui Li, Peng Pan. \
+In: International Conference on Database Systems for Advanced Applications (DASFAA 2021). 
+[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_18) [[code]](https://github.com/georgeguo-cn/DiCGAN)
+* A light heterogeneous graph collaborative filtering model using textual information. \
+Chaoyang Wang, ***Zhiqiang Guo***, Guohui Li, Jianjun Li, Peng Pan, Ke Liu. \
+Knowledge-Based Systems (KBS 2021). 
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0950705121008649)
+* A Text-Based Deep Reinforcement Learning Framework for Interactive Recommendation. \
+Chaoyang Wang, ***Zhiqiang Guo***, Jianjun Li, Peng Pan, Guohui Li. \
+In: 24th European Conference on Artificial Intelligence (ECAI 2020). 
+[[paper]](https://ebooks.iospress.nl/volumearticle/54931)
+* DDFL: a deep dual function learning-based model for recommender systems. \
+Syed Tauhid Ullah Shah, Jianjun Li, ***Zhiqiang Guo***, Guohui Li, Quan Zhou. \
+In: International Conference on Database Systems for Advanced Applications (DASFAA 2020). 
+[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59419-0_36)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Honors and Awards
+======
+* 2024, Postdoctoral Fellowship Program (Grade B) of China Postdoctoral Science Foundation
+* 2024, Outstanding Graduate of Huazhong University of Science and Technology
+* 2022, National Scholarship for PhD students
+* 2022, Student Travel Grants for CIKM 2022
+* 2020, Outstanding Graduate of Huazhong University of Science and Technology
+* 2018, Outstanding Graduate of Shandong University
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Academic Service
+======
+* Journal Reviewer: TKDE, TOIS, KBS
+* Conference Reviewer: SIGKDD, TheWebConf, AAAI, ACM MM, CIKM
