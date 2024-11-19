@@ -17,7 +17,7 @@ Education and Experience
 * **Jul. 2024 - present.** Postdoctoral researcher, Department of Computer Science and Technology, Tsinghua University.
 * **Sep. 2020 - Jun. 2024.** Ph.D., School of Computer Science and Technology, Huazhong University of Science and Technology.
 * **Sep. 2018 - Jun. 2020.** M.S., School of Computer Science and Technology, Huazhong University of Science and Technology. 
-* **Aug. 2014 - Jul. 2017.** B.S., School of Mechanical, Electrical and Information Engineering, Shandong University.
+* **Sep. 2014 - Jun. 2018.** B.S., School of Mechanical, Electrical and Information Engineering, Shandong University.
 
 
 Publications
