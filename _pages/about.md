@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiqiang Guo"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
