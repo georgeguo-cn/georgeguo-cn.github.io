@@ -12,7 +12,7 @@ I am now a postdoctoral researcher at Department of Computer Science and Terchno
 My primary research interests include personalized recommendation, data mining, and user modeling. Currently, I'm working on multimodal recommendation, generative recommendation.
 
 
-Education
+Education and Experience
 ======
 * **Jul. 2024 - present.** Postdoctoral researcher, Department of Computer Science and Technology, Tsinghua University.
 * **Sep. 2020 - Jun. 2024.** Ph.D., School of Computer Science and Technology, Huazhong University of Science and Technology.
