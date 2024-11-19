@@ -6,13 +6,13 @@
 
 main:
   - title: "Education"
-    url: /#education
+    url: /#education-and-Experience
 
   - title: "Publications"
     url: /#publications
 
   - title: "Honors and Awards"
-    url: /#Honors and Awards
+    url: /#Honors-and-Awards
 
   - title: "Academic Service"
-    url: /#Academic Service
+    url: /#Academic-Service
