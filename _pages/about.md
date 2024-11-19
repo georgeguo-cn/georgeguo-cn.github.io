@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Zhiqiang Guo"
 author_profile: true
 redirect_from: 
   - /about/
@@ -101,3 +101,5 @@ Academic Service
 ======
 * Journal Reviewer: TKDE, TOIS, KBS
 * Conference Reviewer: SIGKDD, TheWebConf, AAAI, ACM MM, CIKM
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ntPmnUOUiTp6VVk_fiKXf6vboAHV_ss2pwMEJguMFOo&cl=ffffff&w=a"></script>
