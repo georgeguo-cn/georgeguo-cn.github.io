@@ -35,9 +35,9 @@ Meng Liu, Jianjun Li, ***Zhiqiang Guo***, Guohui Li. \
 Knowledge-Based Systems (KBS 2024). 
 [[paper]](https://doi.org/10.1016/j.knosys.2024.111508)
 * Knowledge-enhanced Multi-View Graph Neural Networks for Session-based Recommendation. \
-Qian Chen, ***Zhiqiang Guo#***, Jianjun Li, Guohui Li.
+Qian Chen, ***Zhiqiang Guo#***, Jianjun Li, Guohui Li. \
 In: the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023). 
-[[paper]](https://doi.org/10.1145/3539618.3591706)
+[[paper]](https://doi.org/10.1145/3539618.3591706) [[code]](https://github.com/Monicachen233/KMVG)
 * Multi-view Multi-aspect Neural Networks for Next-basket Recommendation. \
 Zhiying Deng, Jianjun Li, ***Zhiqiang Guo***, Wei Liu, Li Zou, Guohui Li. \
 In: the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023). 
