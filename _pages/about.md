@@ -22,6 +22,18 @@ Education and Experience
 
 Publications
 ======
+* Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation. \
+Zhiyu He, Zhixin Ling, Jiayu Li, ***Zhiqiang Guo***, Weizhi Ma, Xinchen Luo, Min Zhang, Guorui Zhou. \
+In: the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
+[[paper]](https://arxiv.org/abs/2504.04237)
+* Explainable Multi-Modality Alignment for Transferable Recommendation. \
+Shenghao Yang, Weizhi Ma, ***Zhiqiang Guo***, Min Zhang, Haiyang Wu, Junjie Zhai, Chunhui Zhang, Yuekui Yang. \
+In: the ACM on Web Conference 2025 (WWW 2025). 
+[[paper]](https://doi.org/10.1145/3696410.3714733)
+* PerSRV: Personalized Sticker Retrieval with Vision-Language Model. \
+Heng Er Metilda Chee, Jiayin Wang, ***Zhiqiang Guo***, Weizhi Ma, Min Zhang. \
+In: the ACM on Web Conference 2025 (WWW 2025). 
+[[paper]](https://doi.org/10.1145/3696410.3714772)
 * LGMRec: Local and Global Graph Learning for Multimodal Recommendation. \
 ***Zhiqiang Guo***, Jianjun Li, Guohui Li, Chaoyang Wang, Si Shi, Bin Ruan. \
 In: the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024). 
@@ -100,6 +112,6 @@ Honors and Awards
 Academic Service
 ======
 * Journal Reviewer: TKDE, TOIS, KBS
-* Conference Reviewer: SIGKDD, TheWebConf, AAAI, ACM MM, CIKM
+* Conference Reviewer: SIGKDD, TheWebConf, ACL, AAAI, ACM MM, CIKM
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ntPmnUOUiTp6VVk_fiKXf6vboAHV_ss2pwMEJguMFOo&cl=ffffff&w=a"></script>
