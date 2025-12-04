@@ -26,7 +26,7 @@ Publications
 Zhefan Wang, Ning Geng, ***Zhiqiang Guo***, Weizhi Ma, Min Zhang.\
 In: the 2025 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP 2025).
 [[paper]](https://doi.org/10.1145/3767695.3769490)
-* StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning.
+* StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning.\
 Yuanqing Yu, Zhefan Wang, Weizhi Ma, Shuai Wang, Chuhan Wu, ***Zhiqiang Guo***, Min Zhang.\
 In: the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025).
 [[paper]](https://doi.org/10.1145/3746252.3761391)
