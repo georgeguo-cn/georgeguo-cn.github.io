@@ -14,7 +14,7 @@ My primary research interests include personalized recommendation, data mining, 
 
 Education and Experience
 ======
-* **Jul. 2024 - present.** Postdoctoral researcher, Department of Computer Science and Technology, Tsinghua University.
+* **Jul. 2024 - present.** Postdoc, Department of Computer Science and Technology, Tsinghua University.
 * **Sep. 2020 - Jun. 2024.** Ph.D., School of Computer Science and Technology, Huazhong University of Science and Technology.
 * **Sep. 2018 - Jun. 2020.** M.S., School of Computer Science and Technology, Huazhong University of Science and Technology. 
 * **Sep. 2014 - Jun. 2018.** B.S., School of Mechanical, Electrical and Information Engineering, Shandong University.
@@ -22,10 +22,26 @@ Education and Experience
 
 Publications
 ======
+* Human vs. Agent in Task-Oriented Conversations.\
+Zhefan Wang, Ning Geng, ***Zhiqiang Guo***, Weizhi Ma, Min Zhang.\
+In: the 2025 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP 2025).
+[[paper]](https://doi.org/10.1145/3767695.3769490)
+* StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning.
+Yuanqing Yu, Zhefan Wang, Weizhi Ma, Shuai Wang, Chuhan Wu, ***Zhiqiang Guo***, Min Zhang.\
+In: the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025).
+[[paper]](https://doi.org/10.1145/3746252.3761391)
+* Small Stickers, Big Meanings: A Multilingual Sticker Semantic Understanding Dataset with a Gamified Approach. \
+Heng Er Metilda Chee, Jiayin Wang, ***Zhiqiang Guo***, Weizhi Ma, Min Zhang. \
+In: the 33rd ACM International Conference on Multimedia (MM 2025).
+[[paper]](https://doi.org/10.1145/3746027.3758310)
+* U-Sticker: A Large-Scale Multi-Domain User Sticker Dataset for Retrieval and Personalization. \
+Heng Er Metilda Chee, Jiayin Wang, ***Zhiqiang Guo***, Weizhi Ma, Qinglang Guo, Min Zhang. \
+In: the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
+[[paper]](https://doi.org/10.1145/3726302.3730311)
 * Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation. \
 Zhiyu He, Zhixin Ling, Jiayu Li, ***Zhiqiang Guo***, Weizhi Ma, Xinchen Luo, Min Zhang, Guorui Zhou. \
 In: the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
-[[paper]](https://arxiv.org/abs/2504.04237)
+[[paper]](https://doi.org/10.1145/3726302.3730083)
 * Explainable Multi-Modality Alignment for Transferable Recommendation. \
 Shenghao Yang, Weizhi Ma, ***Zhiqiang Guo***, Min Zhang, Haiyang Wu, Junjie Zhai, Chunhui Zhang, Yuekui Yang. \
 In: the ACM on Web Conference 2025 (WWW 2025). 
@@ -112,6 +128,6 @@ Honors and Awards
 Academic Service
 ======
 * Journal Reviewer: TKDE, TOIS, KBS
-* Conference Reviewer: SIGKDD, TheWebConf, ACL, AAAI, ACM MM, CIKM
+* Conference PC/Reviewer: SIGKDD, TheWebConf, ACL, AAAI, ACM MM, CIKM
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ntPmnUOUiTp6VVk_fiKXf6vboAHV_ss2pwMEJguMFOo&cl=ffffff&w=a"></script>
