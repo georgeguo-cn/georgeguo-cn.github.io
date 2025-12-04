@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a postdoctoral researcher at Department of Computer Science and Terchnology, Tsinghua University, working with [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang). Before that, I received my PhD degree in School of Computer Science and Technology, Huazhong University of Science and Technology, supervised by [Prof. Guohui Li](http://faculty.hust.edu.cn/liguohui/zh_CN/index.htm) and [Prof. Jianjun Li](http://faculty.hust.edu.cn/lijianjun1/zh_CN/index.htm).
+I am now a postdoctoral researcher at [THUIR](http://www.thuir.cn/), Department of Computer Science and Terchnology, Tsinghua University, working with [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang). Before that, I received my PhD degree in School of Computer Science and Technology, Huazhong University of Science and Technology, supervised by [Prof. Guohui Li](http://faculty.hust.edu.cn/liguohui/zh_CN/index.htm) and [Prof. Jianjun Li](http://faculty.hust.edu.cn/lijianjun1/zh_CN/index.htm).
 
 My primary research interests include personalized recommendation, data mining, and user modeling. Currently, I'm working on multimodal recommendation, generative recommendation.
 
