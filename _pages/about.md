@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a postdoctoral researcher at [THUIR](http://www.thuir.cn/), Department of Computer Science and Terchnology, Tsinghua University, working with [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang). Before that, I received my PhD degree in School of Computer Science and Technology, Huazhong University of Science and Technology, supervised by [Prof. Guohui Li](http://faculty.hust.edu.cn/liguohui/zh_CN/index.htm) and [Prof. Jianjun Li](http://faculty.hust.edu.cn/lijianjun1/zh_CN/index.htm).
+I am now a postdoctoral researcher at [THUIR](http://www.thuir.cn/), Department of Computer Science and Terchnology, Tsinghua University, working with [Prof. Min Zhang](https://www.thuir.cn/group/mzhang). Before that, I received my PhD degree in School of Computer Science and Technology, Huazhong University of Science and Technology, supervised by [Prof. Guohui Li](http://faculty.hust.edu.cn/liguohui/zh_CN/index.htm) and [Prof. Jianjun Li](http://faculty.hust.edu.cn/lijianjun1/zh_CN/index.htm).
 
 My primary research interests include personalized recommendation, data mining, and user modeling. Currently, I'm working on multimodal recommendation, generative recommendation.
 
@@ -22,6 +22,26 @@ Education and Experience
 
 Publications
 ======
+* Accumulative Modality Tokenization for Multimodal Generative Recommendation. \
+Shenghao Yang, ***Zhiqiang Guo#***, Weizhi Ma, Min Zhang, Hao Guo, Lei Wang. \
+The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026).
+[[paper]](#)
+* SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation. \
+Chumeng Jiang, Jiayin Wang, Xinjie Lin, ***Zhiqiang Guo***, Henglian Luo, Min Zhang. \
+In: the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026).
+[[paper]](#)
+* Mix-Attention for Multimodal Large Language Model-enhanced Sequential Recommendation. \
+Shenghao Yang, ***Zhiqiang Guo#***, Weizhi Ma, Min Zhang, Hao Guo, Lei Wang. \
+IEEE Transactions on Knowledge and Data Engineering (TKDE 2026).
+[[paper]](#)
+* APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization. \
+Yuanqing Yu, Yifan Wang, Weizhi Ma, ***Zhiqiang Guo***, Min Zhang. \
+In: the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).
+[[paper]](https://doi.org/10.1145/3770855.3818052)
+*Understanding Internal Representations of Recommendation Models with Sparse Autoencoders. \
+Jiayin Wang, Xiaoyu Zhang, Weizhi Ma, ***Zhiqiang Guo***, Min Zhang. \
+ACM Transactions on Information Systems (TOIS 2026).
+[[paper]](https://doi.org/10.1145/3795529)
 * Human vs. Agent in Task-Oriented Conversations.\
 Zhefan Wang, Ning Geng, ***Zhiqiang Guo***, Weizhi Ma, Min Zhang.\
 In: the 2025 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP 2025).
