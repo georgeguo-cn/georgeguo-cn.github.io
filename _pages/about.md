@@ -38,7 +38,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE 2026).
 Yuanqing Yu, Yifan Wang, Weizhi Ma, ***Zhiqiang Guo***, Min Zhang. \
 In: the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).
 [[paper]](https://doi.org/10.1145/3770855.3818052)
-*Understanding Internal Representations of Recommendation Models with Sparse Autoencoders. \
+* Understanding Internal Representations of Recommendation Models with Sparse Autoencoders. \
 Jiayin Wang, Xiaoyu Zhang, Weizhi Ma, ***Zhiqiang Guo***, Min Zhang. \
 ACM Transactions on Information Systems (TOIS 2026).
 [[paper]](https://doi.org/10.1145/3795529)
